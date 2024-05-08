@@ -16,7 +16,7 @@ hello, world !
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ifunny.co%2Ftags%2Fprogramacao&psig=AOvVaw1Gfbh5v1YmEvX-t66zEvsW&ust=1715286029976000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCHic3w_oUDFQAAAAAdAAAAABAE' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fernandovales&icon=0&color=0)](https://visitcount.itsvg.in)
