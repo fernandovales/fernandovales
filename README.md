@@ -3,7 +3,7 @@
 - 👀 Quero virar um programador profissional
 - 🌱 No momento estou estudando Python e SQL
 - 💞 Se você precisar de ajuda em projetos Python ou SQL estou disposto a trabalhar para aprender
-- 📭 Você pode me encontar no [Linkedin](https://www.linkedin.com/in/francisco-fernando-silva-vale-0827b9310/?trk=opento_sprofile_topcard)
+- 📭 Você pode me encontar no [Linkedin](https://www.linkedin.com/in/fernando-silva-vale-0827b9310/)
 
 
 # 💻 Tech Stack:
